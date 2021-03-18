@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Basic Intro</title>
+</head>
+<body>
+  <h1>Basic Introduction to HTML tags</h1>
+  <h3><p>To start with HTML tags, we need to understand what is HTML? 
+  <ul><li>HTML stands for Hyper-Text Markup Language.</li>
+      <li>HTML is used to create webpages.</li>
+      <li>With the use of html elements browser displays the content.</li>
+      <li>The structure of web page is designed using HTML</li>
+  </ul></p>
+  <p> Few tags we commonly used are as follows :
+  <ul>
+    <li>The '!DOCTYPE html' declaration defines that this document is an HTML5 document.</li>
+    <li>The 'html' element is the root element of an HTML page.</li>
+    <li>The 'head' element contains meta information about the HTML page.</li>
+    <li>The 'title' element specifies a title for the HTML page.</li>
+    <li>The 'body' element defines the document's body, and is a container for all the visible contents.</li>
+    <li>The 'p' element defines a paragraph</li>
+    <li>The 'h1' to 'h6' tags defines the highest to lowest size of the content.</li>
+  </ul></p></h3>
+</body>
+</html>
